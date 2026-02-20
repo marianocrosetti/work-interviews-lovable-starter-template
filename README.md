@@ -1,3 +1,5 @@
+> **Disclaimer:** Solo están publicados los procesos de entrevista en los que no se aclaró que no se podía difundir el material entregado. Las consignas originales no están incluidas. Si alguien desea que su proceso sea dado de baja, puede enviar un mail a marianojosecrosetti@gmail.com.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
